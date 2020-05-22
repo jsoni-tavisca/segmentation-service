@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SegmentationService/v15
+/Optimizely.Poc/obj
+/Optimizely.Poc/bin/Debug/netcoreapp2.1
+/SAAS/bin/Debug/netstandard2.0
+/SAAS/obj
